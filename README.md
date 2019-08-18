@@ -1,5 +1,9 @@
 # stanfordNLP
 try out NLP pre-processing with StanfordNLP 
+
+reference 
+
+
 @inproceedings{qi2018universal,
  address = {Brussels, Belgium},
  author = {Qi, Peng  and  Dozat, Timothy  and  Zhang, Yuhao  and  Manning, Christopher D.},
